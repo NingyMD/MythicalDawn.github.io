@@ -18,11 +18,9 @@
     bottom: 0;
     width: 100%;
     height: 2.5rem;            /* Footer height */
-    margin-left: 20px;
-    margin-right: 20px;
   }
 .version u::before{
-    content: "v1.4.7-alpha";
+    content: "v1.4.8-alpha";
 }
 footer {
     background-color: #777;
