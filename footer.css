@@ -21,6 +21,13 @@
     margin-left: 20px;
     margin-right: 20px;
   }
-.version p::before{
+.version u::before{
     content: "v1.4.6-alpha";
 }
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: left;
+    text-indent: 10px;
+    line-height: 250%;
+  }
