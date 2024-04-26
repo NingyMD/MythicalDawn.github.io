@@ -22,7 +22,7 @@
     margin-right: 20px;
   }
 .version u::before{
-    content: "v1.4.6-alpha";
+    content: "v1.4.7-alpha";
 }
 footer {
     background-color: #777;
