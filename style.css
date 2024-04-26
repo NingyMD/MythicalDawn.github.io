@@ -10,10 +10,11 @@ h1{
 }
 .navbar ul{
     list-style-type: none;
-    background-color: rgb(97, 97, 97);
+    background-color: rgb(49, 49, 49);
     padding: 0px;
     margin: 0px;
     overflow: hidden;
+    border: 2px solid rgb(92, 92, 92);
 }
 .navbar a{
     color: white;
@@ -23,8 +24,9 @@ h1{
     text-align: center;
 }
 .navbar a:hover{
-    background-color: rgb(109, 109, 109);
+    background-color: rgb(56, 56, 56);
 }
 .navbar li{
     float: left;
+    border: 2px solid rgb(59, 59, 59);
 }
