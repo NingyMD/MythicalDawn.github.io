@@ -1,1 +1,1 @@
-# NingyMD.github.io
+# Ningy.github.io
